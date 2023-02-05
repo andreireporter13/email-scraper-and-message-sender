@@ -1,7 +1,7 @@
 #
 #
 # This script will send a message to scraped emails
-#
+###################################################
 #
 # import data: login, password etc.
 from .config import email, password
